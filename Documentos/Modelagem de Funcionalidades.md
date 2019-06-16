@@ -90,7 +90,7 @@
 
 - Cadastrar Tarefa:  
   O usuário deve ser capaz de cadastrar uma tarefa, depois de
-  [Visualizar Tarefas](#cadastrar-tarefa)
+  [Visualizar Tarefas](#visualizar-tarefa)
 
 <a id="cadastrar-categoria"></a>
 
