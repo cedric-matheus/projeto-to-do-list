@@ -14,7 +14,7 @@ A ferramenta que utilizo para criar os diagramas é o app
   realizadas por mim. Nesse modelo, tento fortalecer ao máximo as dependencias
   de funcionalidades, através dos extends e includes, de maneira que conseguimos imaginar um fluxo funcional da aplicação.
 
-  [Arquivo Fonte](../blob/master/Diagramas/Arquivos%20Fonte/Caso%20De%20Uso.drawio/?target=_blank)
+  <a href="../blob/master/Diagramas/Arquivos%20Fonte/Caso%20De%20Uso.drawio" target="_blank">Arquivo Fonte</a>
   
   [Arquivo PDF](../blob/master/Diagramas/PDF/Caso%20De%20Uso.pdf/?target=_blank)
   
