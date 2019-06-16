@@ -15,8 +15,6 @@ inglês, pois é assim que ficarão no código.
   - [Atributos](#task-attributes)  
   - [Métodos](#task-methods)  
 
-----
-
 ## Classes
 
 <a id="user"></a>
@@ -41,7 +39,7 @@ inglês, pois é assim que ficarão no código.
       Método que recebe uma senha (password) e retorna uma booleana contendo a
       validação da senha do usuário.
 
-----
+  ----
 
 <a id="category"></a>
 
@@ -60,7 +58,7 @@ inglês, pois é assim que ficarão no código.
     - getChildrens() : [Category, ...]  
       Método que retorna um array contendo as categorias filhas.
 
-----
+  ----
 
 <a id="task"></a>
 
