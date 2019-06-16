@@ -19,8 +19,6 @@ inglês, pois é assim que ficarão no código.
 
 ## Classes
 
----
-
 <a id="user"></a>
 
 - **User (Usuário)**:  
